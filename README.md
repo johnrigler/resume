@@ -8,7 +8,7 @@ Copyright (C) 2016 Secret Beach Solutions, LLC
 
 ##1 INTRODUCTION
 
-This makes updating your resume/CV a joy if you happen to be a PHP hacker.  I load the page in LibreOffice and then save it as a Word document before sending it off.  No need to trapse into the workd of Windows.
+This makes updating your resume/CV a joy if you happen to be a PHP hacker.  I load the page in LibreOffice and then save it as a Word document before sending it off.  No need to trapse into the world of Windows.
 
 ## 2 LICENSING
 

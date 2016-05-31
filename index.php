@@ -10,6 +10,7 @@
 
 <?php 
 
+include "lib.php";
 include "masthead/body.php";
 include "skills/body.php";
 include "orgs/body.php";

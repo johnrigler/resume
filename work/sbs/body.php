@@ -8,7 +8,7 @@ Developed a solution to query the server environment with SSH and nmap scans, an
 				<li>Recent projects:
 					<ul>
 						<li><?php github("SVG") ?> - Creates toolpaths for various laser cutters
-								<?php skills("PHP","Object Oriented PHP, YAML, Symfony, Pear") ?>
+						using Object Oriented PHP, YAML, Symfony, Pear
 						<li><?php github("resume") ?> - Keeps this resume up to date
 							 				NoSQL Directory Structures
 					</ul>
