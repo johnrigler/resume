@@ -3,12 +3,12 @@
 
 Some subsections refreshes every 5 seconds, just remove to meta tag to stop that. This is more or less viewable in sections as subdirectories.  Yes, its just my resume, but it is gaining functionality, check out the git function in index.php under work/sbs.
 
-#SVG Box Generator
+#My Super-Not-Annoying-To-Update-Resume
 Copyright (C) 2016 Secret Beach Solutions, LLC
 
 ##1 INTRODUCTION
 
-This makes updating your resume/CV a joy if you happen to be a PHP hacker.
+This makes updating your resume/CV a joy if you happen to be a PHP hacker.  I load the page in LibreOffice and then save it as a Word document before sending it off.  No need to trapse into the workd of Windows.
 
 ## 2 LICENSING
 
