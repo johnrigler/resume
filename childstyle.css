@@ -1,0 +1,32 @@
+body {
+	background-color: lightgrey;
+	font-size: 16px;
+}
+
+a {
+	text-decoration: none;
+}	
+
+h2,td,tr,li {
+	size: 1em;
+	}
+
+h2 {
+	color: red;
+	font-size: 1em;
+	}
+
+td {
+	color: blue;
+	font-size: 12pt;
+	}
+
+tr {
+	color: green;
+	font-size: 16px;
+	}
+
+li {
+	color: brown;	
+	font-size: 1.1em;
+	}
