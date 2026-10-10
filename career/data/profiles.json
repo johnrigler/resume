@@ -37,6 +37,35 @@
         "softlayer",
         "total"
       ]
+    },
+    {
+      "id": "technical-advisor",
+      "name": "Principal Technical Advisor / Architect",
+      "summary": "Enterprise technology generalist with architecture, cloud systems, operational reliability, and practical software-development experience. Brings technical direction and cross-team problem-solving without requiring formal line-management responsibilities.",
+      "include": [
+        "total",
+        "consulting",
+        "softlayer",
+        "coinbase",
+        "bofa",
+        "ibm",
+        "acoma"
+      ]
     }
-  ]
+  ],
+  "leadershipMode": {
+    "label": "Strategic technical leadership",
+    "headline": "Principal / Staff Technical Advisor",
+    "summary": "Senior enterprise technologist bringing systems-level judgment to cloud infrastructure, reliability, security, and application integration. Experienced in technical leadership, architecture, and cross-team collaboration, with a preference for influential individual-contributor or advisory responsibilities over line management.",
+    "preferredEvidence": [
+      "total",
+      "consulting",
+      "softlayer",
+      "coinbase",
+      "bofa",
+      "capitalone",
+      "ibm"
+    ],
+    "notes": "Presentation lens only; it must not rewrite past job titles, inflate managerial scope, or alter employment dates."
+  }
 }
