@@ -1,0 +1,42 @@
+{
+  "schema": 1,
+  "profiles": [
+    {
+      "id": "enterprise-support",
+      "name": "Enterprise Support Engineer",
+      "summary": "Enterprise technical support and infrastructure engineer with IBM telephone-based AIX troubleshooting, Unix/Linux and cloud operations, production incident response, and customer-facing experience.",
+      "include": [
+        "acoma",
+        "softlayer",
+        "coinbase",
+        "total",
+        "ibm"
+      ]
+    },
+    {
+      "id": "infrastructure",
+      "name": "Infrastructure / DevOps",
+      "summary": "Enterprise infrastructure engineer covering Unix/Linux, cloud, security, CI/CD, incident response, automation and independent JavaScript/API tooling.",
+      "include": [
+        "softlayer",
+        "consulting",
+        "coinbase",
+        "total",
+        "bofa",
+        "capitalone",
+        "chisel"
+      ]
+    },
+    {
+      "id": "customer-support",
+      "name": "Customer / Technical Support",
+      "summary": "Customer-facing employee with hands-on remote telephone technical support experience, systems troubleshooting, documentation and operational discipline.",
+      "include": [
+        "acoma",
+        "ibm",
+        "softlayer",
+        "total"
+      ]
+    }
+  ]
+}
