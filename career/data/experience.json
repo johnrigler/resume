@@ -1,0 +1,179 @@
+{
+  "schema": 1,
+  "updated": "2026-10-09",
+  "entries": [
+    {
+      "id": "acoma",
+      "employer": "Acoma Business Enterprises",
+      "role": "Cashier / Food Service",
+      "start": "2025-12",
+      "end": null,
+      "displayDate": "Dec 2025–Present",
+      "dateStatus": "payroll-confirmed-as-of-2026-08",
+      "summary": "Frontline cashier and food service work while establishing community connections in western New Mexico.",
+      "tags": [
+        "customer",
+        "service",
+        "operations"
+      ],
+      "notes": [
+        "Work Number original hire 2025-12-02 and active status as of August 2026",
+        "Current status should be reconfirmed at every application"
+      ]
+    },
+    {
+      "id": "chisel",
+      "employer": "Chisel / Ledger Liberty",
+      "role": "Independent technical research",
+      "start": "2024",
+      "end": null,
+      "displayDate": "Research phase beginning 2024; conclusion date to confirm",
+      "dateStatus": "needs-review",
+      "summary": "Finite technical exploration involving vanilla JavaScript, browser interfaces, decentralized ledgers, IPFS, and transaction tooling. Principal exploratory development has drawn to a close.",
+      "tags": [
+        "javascript",
+        "systems",
+        "research",
+        "api"
+      ],
+      "notes": [
+        "Do not present as an indefinite startup or active full-time role",
+        "Presentations with technical colleagues including Denver"
+      ]
+    },
+    {
+      "id": "total",
+      "employer": "Total Ancillary",
+      "role": "Cloud Deployment Architect (1099 client)",
+      "start": "2022-06",
+      "end": "2024-11",
+      "displayDate": "Jun 2022–Nov 2024 (end date under review)",
+      "dateStatus": "conflicting-resumes",
+      "summary": "Healthcare technology cloud deployments and infrastructure architecture, including proof-of-concept work.",
+      "tags": [
+        "cloud",
+        "architecture",
+        "healthcare",
+        "support"
+      ],
+      "notes": [
+        "One earlier resume states Apr 2024 instead of Nov 2024",
+        "Verify against contract, invoices, last paid engagement"
+      ]
+    },
+    {
+      "id": "coinbase",
+      "employer": "Coinbase (client), EverythingD (payroll)",
+      "role": "Site Reliability / Back-End Engineer",
+      "start": "2021-10",
+      "end": "2022-01",
+      "displayDate": "Oct 2021–Jan 2022",
+      "dateStatus": "client-payroll-distinction",
+      "summary": "Production CI/CD, reliability troubleshooting, release support.",
+      "tags": [
+        "devops",
+        "reliability",
+        "support",
+        "cloud"
+      ],
+      "notes": [
+        "Payroll dates 2021-10-11–2022-01-03",
+        "Some earlier client assignment narratives say Sep 2021 start"
+      ]
+    },
+    {
+      "id": "consulting",
+      "employer": "Independent Consulting / Secret Beach Solutions",
+      "role": "Infrastructure, DevOps and Security Consultant",
+      "start": "2019-03",
+      "end": "2022-06",
+      "displayDate": "Mar 2019–Jun 2022",
+      "dateStatus": "resume-supported",
+      "summary": "Infrastructure engineering, automation, systems integration and client engagements.",
+      "tags": [
+        "linux",
+        "devops",
+        "cloud",
+        "support",
+        "api"
+      ],
+      "notes": [
+        "Historical resumes have slight variations in start descriptions"
+      ]
+    },
+    {
+      "id": "softlayer",
+      "employer": "IBM SoftLayer",
+      "role": "Security and Cloud Engineer",
+      "start": "2017-08",
+      "end": "2019-03",
+      "displayDate": "Aug 2017–Mar 2019",
+      "dateStatus": "resume-supported",
+      "summary": "Production cloud support, incident response, risk remediation, Linux/FreeBSD, automation.",
+      "tags": [
+        "linux",
+        "cloud",
+        "security",
+        "support"
+      ],
+      "notes": [
+        "Dates consistent in resumes; not covered by available payroll report"
+      ]
+    },
+    {
+      "id": "bofa",
+      "employer": "Bank of America (client), Insight Global (payroll)",
+      "role": "Infrastructure / DevOps",
+      "start": "2016-06",
+      "end": "2017-04",
+      "displayDate": "Jun 2016–Apr 2017 (payroll)",
+      "dateStatus": "client-payroll-distinction",
+      "summary": "Private cloud operations, configuration management, reporting, and automation.",
+      "tags": [
+        "devops",
+        "cloud",
+        "automation"
+      ],
+      "notes": [
+        "Payroll 2016-06-28–2017-04-06; client resume often ends Mar 2017"
+      ]
+    },
+    {
+      "id": "capitalone",
+      "employer": "Capital One (client), Global Employment Solutions (payroll)",
+      "role": "Infrastructure Analyst / SRE",
+      "start": "2015-08",
+      "end": "2016-04",
+      "displayDate": "Aug 2015–Apr 2016 (payroll)",
+      "dateStatus": "client-payroll-distinction",
+      "summary": "Unix fleet inventory, systems automation, SQL reporting and production support.",
+      "tags": [
+        "aix",
+        "linux",
+        "automation"
+      ],
+      "notes": [
+        "Payroll 2015-08-31–2016-04-15; client resume starts Sep 2015"
+      ]
+    },
+    {
+      "id": "ibm",
+      "employer": "IBM",
+      "role": "AIX Telephone Technical Support / Unix Systems Administration",
+      "start": "1996",
+      "end": "2006",
+      "displayDate": "1996–2006",
+      "dateStatus": "resume-supported",
+      "summary": "Remote telephone-bank AIX technical support, technical escalation, Unix operations and infrastructure support.",
+      "tags": [
+        "support",
+        "telephone",
+        "aix",
+        "customer"
+      ],
+      "notes": [
+        "Precise periods for telephone-bank and other IBM functions remain to be documented"
+      ]
+    }
+  ]
+}
