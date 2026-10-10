@@ -28,3 +28,9 @@ This repository is public-facing unless its visibility changes. Do not commit ho
 
 ## Starting point
 Search roles that actually use enterprise troubleshooting and customer communication before searching generic front-end JavaScript openings.
+
+## Browser interface
+
+Open [`career/index.html`](index.html) in a browser. It is a self-contained static app; no build step and no PHP runtime. When GitHub Pages is configured for the repository and the `career` path is published, the same file can be served there. The public sections are employer-readable, while the job pipeline remains in the local browser only. Export the JSON to back it up or move devices.
+
+Note: `localStorage` is scoped to the origin. A local `file://` copy and a hosted copy do not automatically share data. This app is not an encrypted vault; avoid sensitive notes.
